@@ -2,8 +2,6 @@
 
 Welcome to my GRA Truist Repository!
 
-My name is Anirudh Ghildiyal. 
-
 I have created branches on a weekly basis, uploading each week's work in its own branch. The branch will contain a README file containing the information about
 the work done in that week, alongside the datasets and codes utilised. 
 
