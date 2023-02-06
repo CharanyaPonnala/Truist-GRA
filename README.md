@@ -2,7 +2,9 @@
 
 Welcome to my GRA Truist Repository!
 
-I have created branches on a weekly basis, uploading each week's work in its own branch. The branch will contain a README file containing the information about
+I have created branches for all the team members, so that each member can upload and add their work. 
+
+Additionally there are folders named as per week number. They will contain a README file containing the information about
 the work done in that week, alongside the datasets and codes utilised. 
 
 The GRA Truist Spring Sprint Project aims to model the hidden relationships between customers, products, market, 
